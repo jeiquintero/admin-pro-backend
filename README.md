@@ -1,3 +1,7 @@
-# Adminpro - Backend
+# AdminPro - Backend
 
-Ejecutar npm install
+Recuerden ejecutar 
+
+```
+npm install
+```
